@@ -31,3 +31,11 @@ This should come first although this isn't a strict requirement. Learning to tou
 
 1. [Monkeytype](https://monkeytype.com/)
 2. [Typingclub](https://typingclub.com/)
+
+# Maths
+- Set theory and Mathematical Reasoning ([yt](
+
+# Practice
+
+- Try Hackerrank C++ problems (1-2 problems each day)
+- Must do archive of ZCO/ZIO and INOI
