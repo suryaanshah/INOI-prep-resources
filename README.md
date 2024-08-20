@@ -19,4 +19,8 @@ Also, since CS50 teaches C language, it is now much easier to learn C++ with thi
 https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 
-# 
+# Small Advice
+Since we can give both ZIO and ZCO and qualify either of them for appearing in INOI,
+I suggest giving both of them for practice and increasing the chance of qualification.
+
+
