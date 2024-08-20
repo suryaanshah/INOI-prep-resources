@@ -16,3 +16,7 @@ What I think are the best resources for the prep of INOI
 Since C++ is the only language accepted in the INOI and the IOI, it is useful to start with this even if this is your first time programming.
 
 Also, since CS50 teaches C language, it is now much easier to learn C++ with this [small 4 hour tutorial](
+https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
+
+# 
