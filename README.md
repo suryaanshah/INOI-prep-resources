@@ -24,3 +24,10 @@ Since we can give both ZIO and ZCO and qualify either of them for appearing in I
 I suggest giving both of them for practice and increasing the chance of qualification.
 
 
+# Touch typing
+This should come first although this isn't a strict requirement. Learning to touch-type (type without needing to see the keyboard) is a useful skill in CS. You can type much faster this way. This isn't a strict requirement though but I recommend learning it if you have time. 
+
+## Resources
+
+1. [Monkeytype](https://monkeytype.com/)
+2. [Typingclub](https://typingclub.com/)
