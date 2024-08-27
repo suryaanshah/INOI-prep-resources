@@ -33,7 +33,7 @@ This should come first although this isn't a strict requirement. Learning to tou
 2. [Typingclub](https://typingclub.com/)
 
 # Maths
-- Set theory and Mathematical Reasoning ([yt](
+- Set theory and Mathematical Reasoning ([yt](https://youtube.com/watch?v=2SpuBqvNjHI))
 
 # Practice
 
