@@ -60,7 +60,7 @@ This should come first although this isn't a strict requirement. Learning to tou
 # Practice
 
 - Try Hackerrank C++ problems (1-2 problems each day) [link](https://www.hackerrank.com/domains/cpp)
-- Must do archive of ZCO/ZIO and INOI [link](
+- Must do archive of ZCO/ZIO and INOI [link](https://www.codechef.com/practice/zco-inoi-problems)
 - Australian learn-to-code site has some amazing tutorials [ORAC](https://orac.amt.edu.au/hub/)
 - USACO Training Site [link](https://usaco.training/)
 
